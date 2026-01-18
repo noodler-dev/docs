@@ -5,11 +5,12 @@ lastmod = 2026-01-18T14:34:35-05:00
 draft = false
 description = 'Noodler is an open-source AI observability platform built on OpenTelemetry. It helps teams understand how their AI applications perform by capturing real user interactions and model behavior.'
 keywords = []
+linktitle = 'Getting Started'
 +++
 
-Noodler is a home for understanding how your AI application performs.
-
 ## Overview
+
+Noodler is your home for understanding how your AI application performs.
 
 That includes both **reactive workflows**, like monitoring and debugging, and **active workflows**, like improving prompts, models, and behavior over time. To support this, Noodler is built from a small set of focused building blocks.
 
