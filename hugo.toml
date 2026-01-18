@@ -2,6 +2,23 @@ baseURL = 'https://docs.noodler.dev/'
 languageCode = 'en-us'
 title = 'Noodler Docs'
 
+[markup]
+  [markup.highlight]
+      style = "tango"
+
+[[menu.main]]
+  name = "Getting Started"
+  weight = 10
+  url = "/getting-started"
+[[menu.main]]
+  name = "API"
+  weight = 20
+  url = "/api"
+[[menu.main]]
+  name = "Self-Hosting"
+  weight = 30
+  url = "/self-hosting"
+
 [module]
   proxy = "direct"
   # uncomment line below for temporary local development of module

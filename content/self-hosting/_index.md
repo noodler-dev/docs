@@ -5,6 +5,7 @@ lastmod = 2026-01-18T14:13:53-05:00
 draft = false
 description = 'Self-host Noodler with Docker in minutes. Follow this step-by-step guide to install Noodler locally, run required services, and start collecting OpenTelemetry-based AI traces.'
 keywords = ['self-hosting', 'docker']
+linkTitle = 'Self-Hosting'
 +++
 
 You can self-host Noodler locally using Docker in a single command.
