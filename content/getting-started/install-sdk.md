@@ -6,6 +6,7 @@ draft = false
 description = ''
 keywords = ['sdk', 'python']
 linkTitle = 'Installing the SDK'
+weight = 10
 +++
 
 To install the SDK:
