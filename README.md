@@ -13,4 +13,10 @@ wget https://github.com/gohugoio/hugo/releases/download/v0.154.5/hugo_0.154.5_li
 sudo dpkg -i hugo_0.109.0_linux-amd64.deb
 ```
 
+Next, install PostCSS:
+
+```bash
+npm i
+```
+
 
