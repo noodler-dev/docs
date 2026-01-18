@@ -19,4 +19,10 @@ Next, install PostCSS:
 npm i
 ```
 
+Finally, run the server:
+
+```bash
+hugo server
+```
+
 
