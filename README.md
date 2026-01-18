@@ -1,10 +1,10 @@
 ## Noodler Documentation
 
-This repo contains the Hugo site, and content for the Noodler [docs](docs.noodler.dev). 
+This repo contains the Hugo site, and content for the Noodler docs. 
 
 ## Running Locally
 
-You will need to install a [recent **extended** version](https://github.com/gohugoio/hugo/releases) of Hugo.
+You will need to install a [recent, **extended** version](https://github.com/gohugoio/hugo/releases) of Hugo.
 
 Here is an example using the Debian package manager (dpkg):
 
