@@ -8,8 +8,6 @@ keywords = ['self-hosting', 'docker']
 linkTitle = 'Self-Hosting'
 +++
 
-You can self-host Noodler locally using Docker in a single command.
-
 ## Prerequisites
 
 You’ll need:
