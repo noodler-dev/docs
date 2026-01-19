@@ -1,6 +1,6 @@
 ## Noodler Documentation
 
-This repo contains the Hugo site, and content for the Noodler docs. 
+Source code for the Noodler docs. 
 
 ## Running Locally
 
