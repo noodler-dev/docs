@@ -10,10 +10,10 @@ title = 'Noodler Docs'
   name = "Getting Started"
   weight = 10
   url = "/getting-started"
-[[menu.main]]
-  name = "API"
-  weight = 20
-  url = "/api"
+#[[menu.main]]
+#  name = "API"
+#  weight = 20
+#  url = "/api"
 [[menu.main]]
   name = "Self-Hosting"
   weight = 30
