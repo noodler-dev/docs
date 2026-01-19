@@ -19,6 +19,10 @@ title = 'Noodler Docs'
   weight = 30
   url = "/self-hosting"
 
+[params.copyright]
+from_year = 2026
+authors = "Noodler"
+
 [module]
   proxy = "direct"
   # uncomment line below for temporary local development of module
@@ -29,4 +33,5 @@ title = 'Noodler Docs'
   [[module.imports]]
     path = "github.com/google/docsy"
     disable = false
+
 
