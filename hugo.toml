@@ -4,7 +4,7 @@ title = 'Noodler Docs'
 
 [markup]
   [markup.highlight]
-      style = "tango"
+      style = "onedark"
 
 [[menu.main]]
   name = "Getting Started"
@@ -21,7 +21,10 @@ title = 'Noodler Docs'
 
 [params.copyright]
 from_year = 2026
-authors = "Noodler"
+authors = "Noodler dot dev | [Source Code](https://github.com/noodler-dev/docs)"
+
+[params.ui]
+showLightDarkModeMenu = true
 
 [module]
   proxy = "direct"
